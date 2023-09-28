@@ -1,5 +1,5 @@
 {
-    "name": "afloeter/laravel-cloudflare-stream",
+    "name": "olsi/laravel-cloudflare-stream",
     "description": "Manage the Cloudflare Stream API with ease.",
     "authors": [
         {
